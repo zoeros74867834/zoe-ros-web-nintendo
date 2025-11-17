@@ -13,7 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep ik ben zoe</summary>
+  <summary>uitwerken voor kick-off werkgroep ik ben zoe ros</summary>
 
   ### Auteur:
   Sanne 't Hooft (vervangen door jouw naam)
