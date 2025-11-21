@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep ik ben zoe ros</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Zoe Ros 
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+ Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive 
  
 </details>
 
@@ -36,11 +36,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Ik heb er voor gekozen om de efteling website te doen
+
+  Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
+  https://www.efteling.com/nl/overnachten
+
+  Voor mijn tweede pagina wil ik graag de pagina van de winter efteling gaan doen.
+  https://www.efteling.com/nl/park/events/winter-efteling
+  
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/vliegendehollander.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/efteling-overnachting1" width="375px" alt="omschrijving van de pagina">
+
+   <img src="readme-images/efteling-overnachting1" width="375px" alt="omschrijving van de pagina">
+
+    <img src="readme-images/efteling-overnachting1" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
@@ -57,6 +68,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  Voorwoord: We gaan onderzoek doen en meer leren over de wetregeling van de WCAG check. 
+Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is voor toegankelijkheid voor websites. 
+Zoe (ik) en mijn test persoon 1 Anne hebben bij elkaar de toegangelijkheid test gedaan. 
+
+Hier kwamen de volgende ondervindingen uit. 
+
+Zoe: Die had eerst de website Disney webshop: https://www.disneystore.eu/
+Bij deze website was de codereing taal zo niet goed ingesteld dat de toegangkelijkheid test niet goed uitgevoerd kon worden. 
+Daarom heb ik er voor gekozen om nu voor de nintendo webshop te gaan
+
+Link nintendo webshop:https://www.nintendo.com/nl-nl/?srsltid=AfmBOorMhTaZYZq0rxiyeK4VmXGpYTUFKA0n3r4hs2pjwHWJWLV1ToH7
+
+Ane: die had voor de website Jellycat gekozen: https://eu.jellycat.com/?mtm_dummy=blank&utm_campaign=Search%20-%20DE%20-%20Brand%20%5BEU%5D%20-%20Core&mtm_cid=181165997975&utm_content=kwd-300724357885&mtm_kwd=jellycats&utm_source=google&utm_medium=cpc&mtm_group=search&mtm_placement=&gad_source=1&gad_campaignid=22670115757&gbraid=0AAAAADtxRQD5mRbj46LcsAltiscUEdLh1&gclid=EAIaIQobChMIhPSnl_TukAMVT6ODBx1nZhnJEAAYASAAEgLZIPD_BwE
+
+Bij deze website ging de toegangelijkheid test best wel goed.
+
+Wat was ons opgevallen:
 
 </details>
 
