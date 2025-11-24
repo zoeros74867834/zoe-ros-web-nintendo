@@ -37,6 +37,8 @@
   footer{
 	background-color: white;
   }
-  a{
-	background-color: aqua;
+  a {
+	background-color: #9c6914;
+	padding: 15px;
+	border-radius: 1rem;
   }
