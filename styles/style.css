@@ -2,7 +2,9 @@
 /* CSS REMEDY */
 /**************/
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box; 
+  margin: 0;
+  padding: 0; 
 }
 
 
@@ -17,9 +19,21 @@
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--color-gold: #996605;
+	--color-beige: #fcf5ed;
 }
 
+img {
+	width: 100%;
+}
 
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
 
 
 
@@ -37,8 +51,74 @@
   footer{
 	background-color: white;
   }
-  a {
-	background-color: #9c6914;
-	padding: 15px;
-	border-radius: 1rem;
+  
+
+  header nav{
+	display: flex;
+	width: 100%; ( zorgt er voor dat die de hele menubalk pakt)
+	background-color: var(--color-background); (de background-color zorgt voor dat de achtergrond verandert)
+	align-items: center;
+	padding: 1rem;
+	background-color: white;
+	
   }
+  header nav a{
+	width: 8rem;
+	display: block;
+  }
+
+  header nav ul{
+	display: flex;
+	margin-left: auto;
+	gap: .5rem;
+	
+  }
+
+header nav ul li button {
+	width: 2rem;
+	border: none;
+	display: flex;
+	align-items: center;
+	
+}
+header nav ul li button {
+	border-radius: 30px;
+	padding: .2rem;
+}
+
+header nav ul li:nth-of-type(1) button {
+	background-color: #f4ebe3;
+}
+header nav ul li:nth-of-type(2) button {
+	background-color: #ac182d;
+}
+header nav ul li button svg {
+	padding: .2rem;
+	border-radius: 30px;
+}
+header nav ul  li:nth-of-type(2) button svg{
+	fill: white;
+	border: solid 1px var(--color-background);
+}
+header nav ul  li:nth-of-type(1) button svg{
+	fill: var(--color-gold);
+	border: solid 1px var(--color-gold);
+}
+header nav > button{
+	width: 2rem;
+	aspect-ratio: 1/1;
+	margin-left: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: .3rem;
+	background-color: transparent;
+	border: none;
+}
+header nav > button span {
+	display: block;
+	width: 100%;
+	height: .2rem;
+	background-color: black;
+	border-radius: 1rem;
+}
