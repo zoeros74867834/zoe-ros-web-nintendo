@@ -299,6 +299,12 @@ footer section:nth-of-type(4) details ul li {
   padding-left: 2rem;
 }
 
+footer section:nth-of-type(5) ul li {
+  margin-top: 1em;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+}
+
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -318,10 +324,7 @@ li {
   list-style-type: none;
 }
 
-footer section:nth-of-type(5) ul li {
-  margin-top: 1em;
-  padding-left: 2rem;
-}
+
 /* body[data-pagina="pagina-3"]{
 	background-color: red;
 } */
