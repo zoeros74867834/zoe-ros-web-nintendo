@@ -119,24 +119,58 @@ Wat was ons opgevallen:
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Dit ging goed in mijn code?
+  De basis code van de efteling in mijn html te zetten ging er snel en goed.
+    <img src="readme-images/html-basis-code.png" width="375px" alt="HTML code basis opbouw ">
+    Waarom dit zo goed ging is omdat ik heel snel de tekst er in kon zetten en de structuur van de opbouw. 
+
+###
+    <img src="readme-images/voorbeeld-slide.png" width="375px" alt="HTML code basis opbouw ">
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  Eerste gesprek ging ging samen met Vasilis zitten. 
+  Bij het gesprek was alleen Maud en ik aanwezig. Hier lieten we onze basis code zien wat we allemaal al gemaakt hadden. 
+  
+  ### Het advies die ik heb gekregen 
+  Bij mij was de basis code er goed in gezet alleen de indeling zelf klopte nog niet hellemaal. 
+  Het is dus belangerijk dat je niet te snel gaat en eerst goed alles op de juiste volg order er in heb staan. 
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Maud  
+  Ik wil kijken naar een webiste die mij uitdaagt maar ook niet te moeilijk is om mee te beginen. Als ik meer tijd heb wil ik dieper op de stof in gaan en kleine extra dingen er in stoppen.
+
+  | Cato  
+  Ik wil graag veel gaan oefenen met de code en eerst de basis goed onder controle hebben. Voor de website die ik ga uitkiezen wil ik graag dat die me erg aanspreekt. Dat mocht ik meer tijd hebben er meer dingen aan kan toevoegen.
+
+  | Zoe  
+  Ik wil graag mij verder gaan ontwikkelen in codeer taal. 
+  Dit ga ik doen door veel te gaan oefenen en echt te snappen hoe de toegangkelijkheid regels in elkaar zit. Als ik dan meer tijd over heb wil ik ga een stapje hoger gaan en kijken voor de rode piste.
+
+  | Jip  
+  Ik wil graag een simple website kiezen waarbij is rustig kan beginnen en zelf steeds meer dingen aan toevoegen. Wat ik heel graag zou gaan willen leren als ik extra tijd heb is dan die animaties.
+
+  | Thijs
+  Ik wil graag beter gaan worden in coderen. 
+  Als ik meer tijd heb wil ik zelf gaan kijken naar betere toegankelijkheid.
+ 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Hoe zet je de juiste indeling van je website neer  
+  Hierbij hebben we besproken met ze alle hoe we het beste onze website kunnen ontleden. Bij sommige zit dat iets anders in elkaar dan bij andere. 
+  Maar je hebt 1 H1 op elke website pagina ( Dat is meestal dan een titel)
+  De H2 staat hoger dan de H3 
+
+  - Hoe zet je code mooie en netjes neer
+  Om het ook meer overzichtelijk voor jezelf om bij te houden. 
+
+  - Controleer bij elkaar de toegankelijkheid van de website die je hebt gekozen
+  Hou er rekening mee dat de website die je kiest juist niet perfect hoeft te zijn. 
+  Je wilt juist op onderzoek gaan en als ontwerpen deze punten vinden en aanstreken.
+  
 
 </details>
 
@@ -150,17 +184,27 @@ Wat was ons opgevallen:
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code) 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Maud            
+  
+   | Cato    
+
+   | Zoe  
+   k heb gekozen gekozen voor de webiste efteling.
+   Maar eerst had ik de disney website. En daarna wilde ik de ninetndo website doen. Maar ik heb die niet gekozen omdat ik die te ingewekkeld vodn kwa opbouw. 
+
+
+   | Jip  
+   Ik heb gekozen gekozen voor de webiste ESN  
+
+   | Thijs
+   Ik heb gekozen gekozen voor de webiste Knoppers
+ 
 
 
   ### Verslag van meeting
@@ -183,7 +227,7 @@ Wat was ons opgevallen:
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  
 
 </details>
 
@@ -203,11 +247,16 @@ Wat was ons opgevallen:
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Maud      
+  
+  | Cato          
+  
+  | Zoe    
+  
+  | Jip       
+  
+  | Thijs
+
 
 
   ### Verslag van meeting
@@ -246,7 +295,7 @@ Wat was ons opgevallen:
 </details>
 
 
-
+Toegangkelijkheid test
 
 
 ## Bronnenlijst

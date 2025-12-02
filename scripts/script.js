@@ -7,6 +7,7 @@
 // Om een functie te schrijven in javavscript begin je altijd met function
 
 console.log("hi");
+
 const burger = document.querySelector("header nav > button")
 console.log(burger);
 
@@ -16,9 +17,23 @@ console.log(burger);
 // Camelcase betekent dat je de eerste in het tweede woord in kapitaal schrijft
 // openBurger is een functie aanroepen
 // addEventListner voegt een gebeurtenis toe aan je element wat voor nu burger is
+// als je twee woorden heb dan heet dat camelcase 
 function openBurger(item){
     console.log("je hebt me geklikt");
 
 }
 
 burger.addEventListener("click", openBurger)
+
+let menu = document.querySelector("header nav:nth-of-type(2)");
+const menuBtn = document.querySelector("header nav:nth-of-type(1) > button");
+console.log(menu);
+console.log(menuBtn);
+
+
+function openMenu(item){
+item.classList.toggle("open")
+}
+menuBtn.addEventListener("click", function () {
+    openMenu(menu);
+});
