@@ -8,7 +8,8 @@
 
 console.log("hi");
 
-const burger = document.querySelector("header nav > button")
+const burger = document.querySelector("header nav > button");
+let menuItem = document.querySelector("header nav:nth-of-type(2)")
 console.log(burger);
 
 //let 
@@ -19,21 +20,9 @@ console.log(burger);
 // addEventListner voegt een gebeurtenis toe aan je element wat voor nu burger is
 // als je twee woorden heb dan heet dat camelcase 
 function openBurger(item){
-    console.log("je hebt me geklikt");
-
+    item.classList.toggle("open")
 }
-
-burger.addEventListener("click", openBurger)
-
-let menu = document.querySelector("header nav:nth-of-type(2)");
-const menuBtn = document.querySelector("header nav:nth-of-type(1) > button");
-console.log(menu);
-console.log(menuBtn);
-
-
-function openMenu(item){
-item.classList.toggle("open")
-}
-menuBtn.addEventListener("click", function () {
-    openMenu(menu);
+burger.addEventListener("click", function(){
+    openBurger(menuItem)
 });
+
