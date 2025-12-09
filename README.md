@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Blauw
 
   #### Je focus:
-  Responsive 
+  
  
 </details>
 
@@ -69,19 +69,23 @@ Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is vo
 ### Content
 <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
 Eerst zijn we gaan kijken bij de Nintendo website hoe de content op de pagina er uitziet.
+Er worden geen moeilijke woorden gebruikt maar vooral grafische afbeeldingen.
+Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een duidelijke uitles.
 
+### Global code 
  <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina"> 
+ Bij de validate code heben we gekeken naar de code van nintendo.
+ Wat mij wel heel erg op viel is dat er veel onodige code in staat. En dat het heel erg opgesommed staat. 
+ Het maakt geen gebruikt van lang attribute en heeft een duidelijke webpagina naam. Dus je kan het goed van elkaar onderscheiden.
+
 <img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
 <img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
 <img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
+ 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
-   
 Zoe (ik) en mijn test persoon 1 Anne hebben bij elkaar de toegangelijkheid test gedaan. 
-
 Hier kwamen de volgende ondervindingen uit. 
-
 Zoe: Die had eerst de website Disney webshop: https://www.disneystore.eu/
 Bij deze website was de codereing taal zo niet goed ingesteld dat de toegangkelijkheid test niet goed uitgevoerd kon worden. 
 Daarom heb ik er voor gekozen om nu voor de nintendo webshop te gaan
@@ -91,8 +95,7 @@ Link nintendo webshop:https://www.nintendo.com/nl-nl/?srsltid=AfmBOorMhTaZYZq0rx
 Ane: die had voor de website Jellycat gekozen: https://eu.jellycat.com/?mtm_dummy=blank&utm_campaign=Search%20-%20DE%20-%20Brand%20%5BEU%5D%20-%20Core&mtm_cid=181165997975&utm_content=kwd-300724357885&mtm_kwd=jellycats&utm_source=google&utm_medium=cpc&mtm_group=search&mtm_placement=&gad_source=1&gad_campaignid=22670115757&gbraid=0AAAAADtxRQD5mRbj46LcsAltiscUEdLh1&gclid=EAIaIQobChMIhPSnl_TukAMVT6ODBx1nZhnJEAAYASAAEgLZIPD_BwE
 
 Bij deze website ging de toegangelijkheid test best wel goed.
-
-Wat was ons opgevallen:
+Wat ons wat opgevallen bij anne haar website was:
 
 </details>
 
@@ -317,6 +320,7 @@ Toegangkelijkheid test
   1. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-column
   2. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
   3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
-  4. 
+  4. https://www.accessibility.nl/kennis/zo-zet-je-skiplinks-voor-een-optimale-navigatie
+  5. 
 
 </details>
