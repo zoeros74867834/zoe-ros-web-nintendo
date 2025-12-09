@@ -62,15 +62,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
+Voorwoord: We gaan onderzoek doen en meer leren over de wetregeling van de WCAG check. 
+Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is voor toegankelijkheid voor websites.
+### eerste toegankelijkheidtest Nintendo
 
-<details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+### Content
+<img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
+Eerst zijn we gaan kijken bij de Nintendo website hoe de content op de pagina er uitziet.
 
+ <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina"> 
+<img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  Voorwoord: We gaan onderzoek doen en meer leren over de wetregeling van de WCAG check. 
-Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is voor toegankelijkheid voor websites. 
+   
 Zoe (ik) en mijn test persoon 1 Anne hebben bij elkaar de toegangelijkheid test gedaan. 
 
 Hier kwamen de volgende ondervindingen uit. 
@@ -307,8 +314,9 @@ Toegangkelijkheid test
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-column
+  2. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
+  4. 
 
 </details>

@@ -10,7 +10,6 @@ console.log("hi");
 
 const burger = document.querySelector("header nav > button");
 let menuItem = document.querySelector("header nav:nth-of-type(2)")
-console.log(burger);
 
 //let 
 // Altijd een funtie een naam geven
@@ -24,5 +23,6 @@ function openBurger(item){
 }
 burger.addEventListener("click", function(){
     openBurger(menuItem)
+    console.log('hij klikt');
 });
 

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap');
+
 /**************/
 /* CSS REMEDY */
 /**************/
@@ -11,9 +13,15 @@
 header {
   position: relative;
 }
+
+html {
+  overflow-x: hidden !important;
+}
 body {
   background-color: #f4ebe3;
+  overflow-x: hidden;
 }
+
 header nav:nth-of-type(1) {
   display: flex;
   width: 100%;
@@ -39,7 +47,7 @@ header nav:nth-of-type(1) ul li button {
   display: flex;
   align-items: center;
 }
-header nav:nth-of-type(1) ul li button {
+header nav:nth-of-type(1) ul li button  {
   border-radius: 30px;
   padding: 0.2rem;
 }
@@ -57,6 +65,10 @@ header nav:nth-of-type(1) ul li button svg {
 header nav:nth-of-type(1) ul li:nth-of-type(2) button svg {
   fill: white;
   border: solid 1px var(--color-background);
+}
+
+header nav:nth-of-type(1) ul li button:focus {
+  border: solid .2rem hotpink;
 }
 header nav:nth-of-type(1) ul li:nth-of-type(1) button svg {
   fill: var(--color-gold);
@@ -96,8 +108,6 @@ header nav:nth-of-type(2) ul {
   display: flex;
   flex-direction: column;
   gap: 2rem;
-
-  
 }
 
 header nav:nth-of-type(2) ul li {
@@ -105,18 +115,15 @@ header nav:nth-of-type(2) ul li {
   flex-direction: column;
   gap: 1rem;
   margin-left: 2rem;
-  
 }
 header nav:nth-of-type(2) ul li a {
   text-decoration: none;
   color: #111;
-  
 }
 header nav:nth-of-type(2) ul > li > ul {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  
 }
 main {
   padding-left: 2rem;
@@ -136,6 +143,14 @@ main section:nth-of-type(1) figure {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
+
+button {
+  background-color: #dedede;
+}
+
+button:hover {
+  background-color: #aaa;
+}
 main section:nth-of-type(1) figure img {
   display: block;
 }
@@ -144,9 +159,11 @@ main section:nth-of-type(1) ul {
   flex-direction: column;
   gap: 1rem;
 }
-main section:nth-of-type(1) ul li {
-  /* margin: 1rem; */
-}
+main section:nth-of-type(1) a {
+background-color: #ac182d;
+} 
+
+  
 
 main section:nth-of-type(2) li {
   display: flex;
@@ -273,7 +290,7 @@ summary {
 }
 
 button {
-  background-color: green;
+  background-color: #ac182d;
   border: none;
   font-size: 1.5rem;
   padding: 1rem 1.5rem;
@@ -291,6 +308,10 @@ footer section:nth-of-type(1) ul {
 footer section:nth-of-type(1) details ul li {
   margin-top: 1em;
   padding-left: 2rem;
+}
+footer a {
+  text-decoration: none;
+  color: black;
 }
 
 footer section:nth-of-type(2) details ul li {
@@ -322,6 +343,7 @@ footer section:nth-of-type(5) ul li {
   --color-text: #111;
   --color-background: #eee;
   --color-gold: #996605;
+  --picture-font: 'Alegreya';
   --color-beige: #fcf5ed;
 }
 
@@ -333,21 +355,166 @@ li {
   list-style-type: none;
 }
 
-
 /* body[data-pagina="pagina-3"]{
 	background-color: red;
 } */
 
-
-
-.eftelingkerst section li:nth-of-type(1) {
-  position:relative;
+.eftelingkerst section:nth-of-type(1) h1 {
+position:absolute;
+left:1rem;
+right:1rem;
+padding-top: 4rem;
+color: white;
 }
 
-.eftelingkerst section li:nth-of-type(1) {
-  position:absolute;
-  inset:1rem;
-  display:grid;
-  place-content:center;
-  text-align:center;
+.eftelingkerst {
+  width: 100%;
+  padding: 0;
 }
+
+.eftelingkerst section:nth-of-type(1){
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eftelingkerst section:nth-of-type(1) h1 {
+  padding:0;
+}
+
+.eftelingkerst section:nth-of-type(2) p {
+  padding:2rem;
+  margin: 1rem;
+  
+  }
+  
+  .eftelingkerst section:nth-of-type(2) a {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    text-align: center;
+    width: 10rem;
+    margin: 0 auto;
+    background-color: #ac182d;
+    color: white;
+    border-radius: 3rem;
+    padding: 1rem;
+    text-decoration: none;
+    position: relative;
+    }
+  /* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
+.eftelingkerst section:nth-of-type(2) a::before {
+  content: "";
+  width: 90%;
+  border: solid .1rem white;
+  position: absolute;
+  padding: 1rem 0;
+  border-radius: 3rem;
+}
+
+.eftelingkerst section:nth-of-type(3) {
+  display: flex;
+  flex-direction: column;
+}
+.eftelingkerst section:nth-of-type(3) article  {
+background-color: white;
+margin: 2rem;
+padding: 2rem;
+text-align: center;
+
+}
+
+.eftelingkerst section:nth-of-type(3) a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   text-align: center;
+   width: 10rem;
+   margin: 0 auto;
+   background-color: #ac182d;
+   color: white;
+   border-radius: 3rem;
+   padding: 1rem;
+   text-decoration: none;
+   position: relative;
+   }
+ /* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
+.eftelingkerst section:nth-of-type(3) a::before {
+ content: "";
+ width: 90%;
+ border: solid .1rem white;
+ position: absolute;
+ padding: 1rem 0;
+ border-radius: 3rem;
+}
+
+
+.eftelingkerst section:nth-of-type(4) {
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+grid-template-rows: repeat(2, 1fr);
+
+}
+.eftelingkerst section:nth-of-type(4) {
+  grid-column: auto;
+  grid-column-end: 2;
+  
+}
+  
+  .eftelingkerst section:nth-of-type(5) {
+    position: relative;
+  }
+
+  .eftelingkerst section:nth-of-type(5) div {
+    position: absolute;
+    inset: 0;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: var(--picture-font);
+    text-align: center;
+    color: var(--color-background);
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+  }
+
+  .eftelingkerst section:nth-of-type(5) div h3 {
+    font-size: 2.5rem;
+  }
+  .eftelingkerst section:nth-of-type(5)::before {
+    content: "";
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,.5);
+    width: 100%;
+    height: 100%;
+  }
+
+  .eftelingkerst section:nth-of-type(5) div a {
+    display: block;
+    margin-top: 1rem;
+    border: solid var(--color-background) .1rem;
+    border-radius: .5rem;
+    padding: .5rem;
+    width: fit-content;
+    color: var(--color-background);
+    text-decoration: none;
+    margin: 1rem auto;
+  }
+
+
+/* MARK: STATES
+ */
+  :focus {
+    outline: none;
+    animation: focusAni .5s infinite alternate; 
+  }
+
+  @keyframes focusAni {
+    from {
+      border: solid .2rem red;
+    } to {
+      border: solid .2rem rgba(255, 0, 0, 0.463);
+    }
+  }
