@@ -43,16 +43,15 @@ Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/efteling-overnachting1.png" width="375px" alt="omschrijving van de pagina">
 
-   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="omschrijving van de pagina">
 
-    <img src="readme-images/efteling-overnachting1" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/winter-efteling-1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/winter-efteling-2.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/winter-efteling-3.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/winter-efteling-4.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/wcag-5-efteling.png." width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -322,3 +321,11 @@ Toegangkelijkheid test
   6. 
 
 </details>
+
+
+  
+  <img src="readme-images/efteling-overnachting1.png" width="375px" alt="omschrijving van de pagina">
+
+   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="omschrijving van de pagina">
+
+   
