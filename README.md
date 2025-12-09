@@ -3,6 +3,15 @@ deze 5 weken ben ik hard aan het werk gegegaan.
 Ik moet eerlijk zeggen ik vond dit heel lastig. 
 Zelf heb ik hier een hoop uren aan besteed alleen waar ik het groost tegen aan liep is dat ik nog niet goed eerst de basis code snapte. Dit koste mij ongeveer twee tot drie weken om dit echt bij te werken. 
 
+Ik heb tijdens deze 5 weken hulp uitleg gehad gehad van de volgende mensen:
+
+De docent
+Ali 
+ronald 
+studenten assitenten ( als iemand mij heeft geholpen dan zie je daar ook een comment bij)
+School oefeningen
+hulp bronnen ( die je onder aan de pagina kan vinden bij de bronnen lijst )
+
 ## Jij
 
   ### Auteur:
@@ -50,6 +59,10 @@ Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   <img src="readme-images/bezoek-efteling-6.png
   " width="375px" alt="omschrijving van de pagina">
 
+  Op deze pagina kan je kijken naar een efteling overnachting.
+  Ook zie je de verschillende hotels waar je kan overnachten
+  En waar je heerlijk kan ontspannen en kan gaan eten en drinken.
+  Daarna kan je de efteling kaart vinden.
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <img src="readme-images/winter-efteling-1.png" width="375px" alt="omschrijving van de pagina">
@@ -57,15 +70,23 @@ Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   <img src="readme-images/winter-efteling-3.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/winter-efteling-4.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/wcag-5-efteling.png." width="375px" alt="omschrijving van de pagina">
+
+Bij de tweede twee pagina wordt je voor bereid op een prachtige winter efteling. Ook vind je de voordelen van naar de winter efteling gaan. En waarom het zp leuk is om tijdens de kerst te blijven slapen.
+
  
 </details>
-
-
 
 ## Toegankelijkheidstest 1/2 (week 1)
 Voorwoord: We gaan onderzoek doen en meer leren over de wetregeling van de WCAG check. 
 Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is voor toegankelijkheid voor websites.
+
 ### eerste toegankelijkheidtest Nintendo
+ <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina">
+   <img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
+    <img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
+    <img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
+
 
 ### Content
 <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
