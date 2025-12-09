@@ -43,7 +43,12 @@ Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-
+ <img src="readme-images/bezoek-efteling-1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bezoek-efteling-2.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bezoek-efteling-3.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bezoek-efteling-4.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bezoek-efteling-6.png
+  " width="375px" alt="omschrijving van de pagina">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
