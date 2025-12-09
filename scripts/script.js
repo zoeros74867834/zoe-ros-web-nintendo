@@ -1,3 +1,4 @@
+/* Met uitleg hulp van Ali */
 // JavaScript Document
 // Alle functies hebben deze haakje ()
 //je hebt constant daar blijft de waarde altijd gelijk

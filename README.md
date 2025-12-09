@@ -1,19 +1,9 @@
-# Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
+# Procesverslag intro
+deze 5 weken ben ik hard aan het werk gegegaan. 
+Ik moet eerlijk zeggen ik vond dit heel lastig. 
+Zelf heb ik hier een hoop uren aan besteed alleen waar ik het groost tegen aan liep is dat ik nog niet goed eerst de basis code snapte. Dit koste mij ongeveer twee tot drie weken om dit echt bij te werken. 
 
 ## Jij
-
-<details open>
-  <summary>uitwerken voor kick-off werkgroep ik ben zoe ros</summary>
 
   ### Auteur:
   Zoe Ros 
@@ -22,25 +12,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Blauw
 
   #### Je focus:
-  
+  surface plane
+
+  Ik had eerst responsive gekozen, maar al snel kwam ik er achter dat de vormaten op al de drie te schermen iets te lastig voor me was dus ik ben in de eerste week geswitch nar surface plane. 
+
+  Met surface plane werk je met animaties. 
  
 </details>
-
-
-
 
 
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+ 
 
   ### Je opdracht:
-  Ik heb er voor gekozen om de efteling website te doen
+Voor de opdracht gingen we twee pagina nameken van een webiste naar keuzen. Ik had eerst voor de disney website gekozen. Maar later kwam ik er achter dat deze pagina niet goed bij me paste en toen ben ik naar de nintendo website gegegaan. 
 
-  Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
+Zelf na onderzoek te doen naar de nintendo webiste ben ik er achter gekemen dat ik deze website erg lastig vond en toch niet goed bij mijn niveau vond passen.
+
+Dus ben ik gaan kijken naar de efteling webiste omdat ik zelf erg fan ben van de efteling. 
+
+### Pagina 1 Efteling 
+Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   https://www.efteling.com/nl/overnachten
 
+### Pagina 2 Efteling
   Voor mijn tweede pagina wil ik graag de pagina van de winter efteling gaan doen.
   https://www.efteling.com/nl/park/events/winter-efteling
   
@@ -321,6 +318,7 @@ Toegangkelijkheid test
   2. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
   3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
   4. https://www.accessibility.nl/kennis/zo-zet-je-skiplinks-voor-een-optimale-navigatie
-  5. 
+  5. https://dlo.mijnhva.nl/content/enforced/690110-FDMCI-CRS-00042507/FED%2025-26%20-%20Blok%202%20-%20Oefening%20typografie%20-%201%20letters.pdf
+  6. 
 
 </details>
