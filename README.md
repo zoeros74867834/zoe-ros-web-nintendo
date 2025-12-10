@@ -460,6 +460,14 @@ Toegangkelijkheid test
   10.https://codepen.io/psbwhznu-the-scripter/pen/XJddYGp 
   11. https://codepen.io/psbwhznu-the-scripter/pen/wBGJGQd
   12. https://codepen.io/psbwhznu-the-scripter/pen/JoXJNYO
+  13. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-timing-function
+  14. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-fill-mode
+  15.https://codepen.io/shooft/pen/KwdZPMP
+  16. https://codepen.io/shooft/pen/XJmEOyb
+  17. https://flexboxfroggy.com/#nl
+  18. https://codepen.io/shooft/pen/MYaXoza
+  
+
 
 
 
