@@ -1,4 +1,5 @@
 # Procesverslag intro
+<details>
 deze 5 weken ben ik hard aan het werk gegegaan. 
 Ik moet eerlijk zeggen ik vond dit heel lastig. 
 Zelf heb ik hier een hoop uren aan besteed alleen waar ik het groost tegen aan liep is dat ik nog niet goed eerst de basis code snapte. Dit koste mij ongeveer twee tot drie weken om dit echt bij te werken. 
@@ -13,14 +14,19 @@ School oefeningen
 hulp bronnen ( die je onder aan de pagina kan vinden bij de bronnen lijst )
 
 ## Jij
+<details>
+Ik zelf ben een persoon die heeft veel moeite heeft met code. 
 
   ### Auteur:
+  <details>
   Zoe Ros 
 
   #### Je startniveau:
+  <details>
  Blauw
 
   #### Je focus:
+  <details>
   surface plane
 
   Ik had eerst responsive gekozen, maar al snel kwam ik er achter dat de vormaten op al de drie te schermen iets te lastig voor me was dus ik ben in de eerste week geswitch nar surface plane. 
@@ -36,6 +42,7 @@ hulp bronnen ( die je onder aan de pagina kan vinden bij de bronnen lijst )
  
 
   ### Je opdracht:
+  <details>
 Voor de opdracht gingen we twee pagina nameken van een webiste naar keuzen. Ik had eerst voor de disney website gekozen. Maar later kwam ik er achter dat deze pagina niet goed bij me paste en toen ben ik naar de nintendo website gegegaan. 
 
 Zelf na onderzoek te doen naar de nintendo webiste ben ik er achter gekemen dat ik deze website erg lastig vond en toch niet goed bij mijn niveau vond passen.
@@ -43,15 +50,18 @@ Zelf na onderzoek te doen naar de nintendo webiste ben ik er achter gekemen dat 
 Dus ben ik gaan kijken naar de efteling webiste omdat ik zelf erg fan ben van de efteling. 
 
 ### Pagina 1 Efteling 
+<details>
 Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   https://www.efteling.com/nl/overnachten
 
 ### Pagina 2 Efteling
+<details>
   Voor mijn tweede pagina wil ik graag de pagina van de winter efteling gaan doen.
   https://www.efteling.com/nl/park/events/winter-efteling
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
+  <details>
  <img src="readme-images/bezoek-efteling-1.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/bezoek-efteling-2.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/bezoek-efteling-3.png" width="375px" alt="omschrijving van de pagina">
@@ -65,6 +75,7 @@ Voor mijn eerste pagina wil ik graag de overnachting pagina doen.
   Daarna kan je de efteling kaart vinden.
 
   #### Screenshot(s) van de tweede pagina (small screen):
+  <details>
   <img src="readme-images/winter-efteling-1.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/winter-efteling-2.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/winter-efteling-3.png" width="375px" alt="omschrijving van de pagina">
@@ -77,10 +88,12 @@ Bij de tweede twee pagina wordt je voor bereid op een prachtige winter efteling.
 </details>
 
 ## Toegankelijkheidstest 1/2 (week 1)
+<details>
 Voorwoord: We gaan onderzoek doen en meer leren over de wetregeling van de WCAG check. 
 Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is voor toegankelijkheid voor websites.
 
 ### eerste toegankelijkheidtest Nintendo
+<details>
  <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina">
    <img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
@@ -89,12 +102,14 @@ Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is vo
 
 
 ### Content
+<details>
 <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
 Eerst zijn we gaan kijken bij de Nintendo website hoe de content op de pagina er uitziet.
 Er worden geen moeilijke woorden gebruikt maar vooral grafische afbeeldingen.
 Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een duidelijke uitles.
 
 ### Global code 
+<details>
  <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina"> 
  Bij de validate code heben we gekeken naar de code van nintendo.
  Wat mij wel heel erg op viel is dat er veel onodige code in staat. En dat het heel erg opgesommed staat. 
@@ -105,6 +120,7 @@ Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een
 <img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
  
   ### Bevindingen
+  <details>
   Lijst met je bevindingen die in de test naar voren kwamen:
 Zoe (ik) en mijn test persoon 1 Anne hebben bij elkaar de toegangelijkheid test gedaan. 
 Hier kwamen de volgende ondervindingen uit. 
@@ -124,12 +140,13 @@ Wat ons wat opgevallen bij anne haar website was:
 
 
 ## Breakdownschets (week 1)
-
+<details>
 Nadat we de toegankelijkheid test hebben gedaan en onze website gekozen hebben wat voor mij dan de efteling website is. zijn we gaan kijken naar de breakdown schetsen.
 
 Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je webpagina. Ook is het belangerijk dat de opmaak van je HTML pagina goed in orde is voor dat je gaat beginnen aan het stylen daar van. 
 
   ### Mijn eerste breakdown schets van de hele pagina: 
+  <details>
   <img src="readme-images/efteling-overnachting1.png" width="375px" alt="breakdown van de hele pagina">
    <img src="readme-images/efteling-overnachting2.png" width="375px" alt="breakdown van de hele pagina">
     <img src="readme-images/efteling-overnachting3.png" width="375px" alt="breakdown van de hele pagina">
@@ -139,6 +156,7 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
     Hier was de grooste feedback op omdat de indeling ziet er goed uit. Alleen let er op dat een breakdown schets voor jezelf is om een goed overzicht hebt.
 
   ### Mijn tweede breakdown schets van de hele pagina: 
+  <details>
   <img src="readme-images/opmaak-1.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/opmaak-2.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/opmaak-3.png" width="375px" alt="breakdown van de hele pagina">
@@ -149,12 +167,12 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
 Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt en op geschreven hoe ik precies de indeling wil hebben. 
 
   ### dynamisch deel (bijv menu): 
-  
+  <details>
 
 
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  
+  <details>
 
 
 
@@ -167,11 +185,13 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
 <details>
 
   ### Stand van zaken
+  <details>
   In week twee ging ik beginnen met de html code schrijven en was ik nog niet echt bezig op de stijling er van. Omdat ik zo snel de html basis er in heb kunnen zetten ben ik einde van de week een beetje begonnen met de css.
 
   
 
   ### pagina 2 winter Efteling
+  <details>
 <img src="readme-images/winter-html-1.png" width="375px" alt="breakdown van een dynamisch deel">
     <img src="readme-images/winter-html-2.png" width="375px" alt="breakdown van een dynamisch deel">
      <img src="readme-images/winter-html-3.png" width="375px" alt="breakdown van een dynamisch deel">
@@ -185,6 +205,7 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
 
  
  ### Wat ging er lastig? 
+ <details>
  <img src="readme-images/oefen-opdracht-text.png" width="375px" alt="breakdown van een dynamisch deel">
 
  Een van de eerste opdrachten die ik heb gedaan ging over oefen met typografie en tekst. Zoals ik al had aangegeven voor dat ik uberhoud begon had ik al moeite met de basis code.
@@ -198,11 +219,13 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
 
 
   ### Agenda voor meeting
+  <details>
   samen met je groepje opstellen
   Eerste gesprek ging ging samen met Vasilis zitten. 
   Bij het gesprek was alleen Maud en ik aanwezig. Hier lieten we onze basis code zien wat we allemaal al gemaakt hadden. 
   
   ### Het advies die ik heb gekregen 
+  <details>
   Bij mij was de basis code er goed in gezet alleen de indeling zelf klopte nog niet hellemaal. 
   Het is dus belangerijk dat je niet te snel gaat en eerst goed alles op de juiste volg order er in heb staan. 
 
@@ -226,6 +249,7 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
 
 
   ### Verslag van meeting
+  <details>
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - Hoe zet je de juiste indeling van je website neer  
@@ -251,11 +275,23 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
 
   
 ### Stand van zaken
-
-
 ### Wat ging er goed?
+<details>
+Wat heel erg goed ging was de foto's er in zetten. En met nth werken. 
+Ik zelf vond het eerst heel lastig om daar mee te werken maar kreeg al snel door dat het heel handig is als je iets appart wil aanspreken in je HTML.
+
+Ik heb bijvoorbeeld 5 section in mijn eerste webpagina dus dan spreek je zo aan met 
+
+main section:nth-of-type(1) 
+alles wat dus in de main staat als een section speek je aan bijdeze dus nu de eerste section.
+
+Als je dan bijvoobeeld specifier wilt dan zeg je:main section:nth-of-type(2) li h3 
+
+let wel op hoe de indeling van je section:nth is want als je hem niet goed aanspreekt werkt die niet meer.
+
 
 ### Wat ging er slecht?
+<details>
  Wat ik heel lastig vond was grid. Hier heb ik uitleg gehad van ronald en ali. Die hebben het voor mij uitgetekt zodat ik zelf de code kan gaan schrijven. 
 
   <img src="readme-images/grid-uitleg-1.png" width="375px" alt="breakdown van een dynamisch deel">
@@ -283,57 +319,57 @@ Na dat de uitleg is gegeven en ik ben gaan kijken naar de oefeningen bij codepen
      ook staat er grid bij de tweede pagina bij section 4.
      Deze heb ik gebruikt om een collem te maken om de foto's onder elkaar neer te zetten zoals ook op de webiste staat.  
 
-     
-
-
   
-
-
-  
-
-
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  <details>
+  Samen met ons groepje gingen we samen zitten en bespreken hoe ver we nu zijn. Daar was in uitgekomen dat we allemaal wel de basis in onze HTML hebben staan. Toen hebben we gekeken allemaal naar onze CSS om te kijken waar we elkaar kunnen gaan helpen
 
-  | Maud            
+  | Maud  
+  Had moeite om alles goed op de juiste plek te zetten bij haar website. Daarom pas het belangerijk om nog een keer even te kijken naar de grid en positie lessen.         
   
    | Cato    
+   Was nog niet heel erg ver maar kon wel mee kijken naar de rest. Vond zelf de oefeningen maken niet heel lastig. Toevallig was dat ook de week van positioneren en states. En ook zoe had daar zeld moeite mee dus deelde we hoe we het zouden aanpakken.
 
    | Zoe  
-   ik heb gekozen gekozen voor de webiste efteling.
-   Maar eerst had ik de disney website. En daarna wilde ik de ninetndo website doen. Maar ik heb die niet gekozen omdat ik die te ingewekkeld vodn kwa opbouw. 
+   ik wilde graag gaan leren hoe je een carosel kan maken zodat je de afbeeldingen kan rond bewegen met je muis. In section 3 heb ik een flex en scroll neer gezet. Deze informatie komt uit les twee, dit hielp Jip en Thijs ook verder. 
 
 
    | Jip  
-   Ik heb gekozen gekozen voor de webiste ESN  
+   Jip gaf aan dat alles goed bij haar ging en dat ze graag voor nu voornamelijk met ons wil gaan meekijken. En dat als ze vragen heeft dat ze dat dan laat weten. Voor nu moet ze nog veel oefenen met de opdrachten en kijken wat ze graag in haar website wil gaan stoppen en hoe ze dat goed moet gaan doen met CSS.
 
    | Thijs
-   Ik heb gekozen gekozen voor de webiste Knoppers
+   Thijs gaf aan dat die coderen niet heel makkelijk vind maar dat alles wel oke gaat maar dat die er nog hard mee bezig is. En voor nu voornamelijk bezig is om alles in de twee pagina te zetten en hoe je het goed moet gaan stylen.
  
 
 
   ### Verslag van meeting
+  <details>
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Hoe werkt een Flexbox ook al weer
+  - Hoe hou je er rekening mee dat je eigen website ook goed toegankelijk word
+  - Hoe werkt States
+  - Wat moet er in je JS code staan 
+  - Grid nog even door bespreken
 
-</details>
+
 
 
 
 
 
 ## Toegankelijkheidstest 2/2 (week 4)
-
 <details>
-  <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid. Hierbij gaan we kijken naar de verschillen hoe het eerst was. En hoe veel beter het nu is geworden.
+
+### Wat hebben we aangepast?
+<details>
+
+### Wat is het zelfde gebleven?
+<details>
 
   ### Bevindingen
   
-
 </details>
 
 
@@ -350,9 +386,10 @@ Na dat de uitleg is gegeven en ik ben gaan kijken naar de oefeningen bij codepen
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  
 
-  | Maud      
+  | Maud   
+  Maud had vooral vragen of haar code die nu er in staat een beetje goed is. En hoe ze dingen kan laten    
   
   | Cato          
   
