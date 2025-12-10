@@ -125,11 +125,28 @@ Wat ons wat opgevallen bij anne haar website was:
 
 ## Breakdownschets (week 1)
 
-<details>
-  <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
+Nadat we de toegankelijkheid test hebben gedaan en onze website gekozen hebben wat voor mij dan de efteling website is. zijn we gaan kijken naar de breakdown schetsen.
 
-  ### de hele pagina: 
+Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je webpagina. Ook is het belangerijk dat de opmaak van je HTML pagina goed in orde is voor dat je gaat beginnen aan het stylen daar van. 
+
+  ### Mijn eerste breakdown schets van de hele pagina: 
   <img src="readme-images/efteling-overnachting1.png" width="375px" alt="breakdown van de hele pagina">
+   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="breakdown van de hele pagina">
+    <img src="readme-images/efteling-overnachting3.png" width="375px" alt="breakdown van de hele pagina">
+
+    Op de feedback van mijn eerste breakdown schetsen heb ik samen met de docent besproken en met een klas genoot (maud)
+
+    Hier was de grooste feedback op omdat de indeling ziet er goed uit. Alleen let er op dat een breakdown schets voor jezelf is om een goed overzicht hebt.
+
+  ### Mijn tweede breakdown schets van de hele pagina: 
+  <img src="readme-images/opmaak-1.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/opmaak-2.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/opmaak-3.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/opmaak-4.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/opmaak-5.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/opmaak-6.png" width="375px" alt="breakdown van de hele pagina">
+
+Daarom heb ik even een nieuwe schets gemaakt. Deze heeft
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
