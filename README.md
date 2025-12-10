@@ -146,13 +146,13 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
   <img src="readme-images/opmaak-5.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/opmaak-6.png" width="375px" alt="breakdown van de hele pagina">
 
-Daarom heb ik even een nieuwe schets gemaakt. Deze heeft
+Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt en op geschreven hoe ik precies de indeling wil hebben. 
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  
 
 </details>
 
@@ -163,18 +163,36 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft
 ## Voortgang 1 (week 2)
 
 <details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  In week twee ging ik beginnen met de html code schrijven en was ik nog niet echt bezig op de stijling er van. Omdat ik zo snel de html basis er in heb kunnen zetten ben ik einde van de week een beetje begonnen met de css.
 
-  Dit ging goed in mijn code?
-  De basis code van de efteling in mijn html te zetten ging er snel en goed.
-    <img src="readme-images/html-basis-code.png" width="375px" alt="HTML code basis opbouw ">
-    Waarom dit zo goed ging is omdat ik heel snel de tekst er in kon zetten en de structuur van de opbouw. 
+  
 
-###
-    <img src="readme-images/voorbeeld-slide.png" width="375px" alt="HTML code basis opbouw ">
+  ### pagina 2 winter Efteling
+<img src="readme-images/winter-html-1.png" width="375px" alt="breakdown van een dynamisch deel">
+    <img src="readme-images/winter-html-2.png" width="375px" alt="breakdown van een dynamisch deel">
+     <img src="readme-images/winter-html-3.png" width="375px" alt="breakdown van een dynamisch deel">
+      <img src="readme-images/winter-html-4.png" width="375px" alt="breakdown van een dynamisch deel">
+       <img src="readme-images/winter-html-5.png" width="375px" alt="breakdown van een dynamisch deel">
+       <img src="readme-images/winter-html-6.png" width="375px" alt="breakdown van een dynamisch deel">
+       <img src="readme-images/winter-html-7.png" width="375px" alt="breakdown van een dynamisch deel">
+
+       Alles in de HTML zetten ging goed zo als je hier boven kan zien. 
+       Dit was echt binnen een paar uur gemaakt. Wel merkte ik later dat ik nog een paar dingen moest aanpassen. Hierdoor moest ik ook nog een keer het structuur door nemen. En steeds verbeterde ik het zo dat de code goed zou gaan blijven werken. 
+
+ 
+ ### Wat ging er lastig? 
+ <img src="readme-images/oefen-opdracht-text.png" width="375px" alt="breakdown van een dynamisch deel">
+
+ Een van de eerste opdrachten die ik heb gedaan ging over oefen met typografie en tekst. Zoals ik al had aangegeven voor dat ik uberhoud begon had ik al moeite met de basis code.
+
+ Ik heb voor de efteling website de font opgezocht en toen instaleerd.
+ https://fonts.google.com/specimen/Alegreya
+
+ ondanks dit best makkelijk is merkte ik dat ik vooral tegen de simple dingen aanliep maar nu wel snap. 
+
+
 
 
   ### Agenda voor meeting
@@ -229,11 +247,22 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft
 
 ## Voortgang 2 (week 3)
 
-<details>
-  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
+  
+### Stand van zaken
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code) 
+
+### Wat ging er goed?
+
+### Wat ging er slecht?
+ Wat ik heel lastig vond was grid. Hier heb ik uitleg gehad van ronald en ali. Die hebben het voor mij uitgetekt zodat ik zelf de code kan gaan schrijven. 
+
+  <img src="readme-images/grid-uitleg-1.png" width="375px" alt="breakdown van een dynamisch deel">
+   <img src="readme-images/grid-uitleg-2.png" width="375px" alt="breakdown van een dynamisch deel">
+    <img src="readme-images/grid-uitleg-3.png" width="375px" alt="breakdown van een dynamisch deel">
+     <img src="readme-images/grid-uitleg-4.png" width="375px" alt="breakdown van een dynamisch deel">
+     <img src="readme-images/grid-uitleg-5.png" width="375px" alt="breakdown van een dynamisch deel">
+
+  
 
 
   ### Agenda voor meeting
@@ -244,7 +273,7 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft
    | Cato    
 
    | Zoe  
-   k heb gekozen gekozen voor de webiste efteling.
+   ik heb gekozen gekozen voor de webiste efteling.
    Maar eerst had ik de disney website. En daarna wilde ik de ninetndo website doen. Maar ik heb die niet gekozen omdat ik die te ingewekkeld vodn kwa opbouw. 
 
 
@@ -361,7 +390,17 @@ Toegangkelijkheid test
   3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
   4. https://www.accessibility.nl/kennis/zo-zet-je-skiplinks-voor-een-optimale-navigatie
   5. https://dlo.mijnhva.nl/content/enforced/690110-FDMCI-CRS-00042507/FED%2025-26%20-%20Blok%202%20-%20Oefening%20typografie%20-%201%20letters.pdf
-  6. 
+  6. https://fonts.google.com/specimen/Alegreya
+  7. https://codepen.io/psbwhznu-the-scripter/pen/ogxxjdV
+  8. https://codepen.io/psbwhznu-the-scripter/pen/yyOyYPw
+  9. https://codepen.io/psbwhznu-the-scripter/pen/XJddjJy
+  10.https://codepen.io/psbwhznu-the-scripter/pen/XJddYGp 
+  11. https://codepen.io/psbwhznu-the-scripter/pen/wBGJGQd
+  12. https://codepen.io/psbwhznu-the-scripter/pen/JoXJNYO
+
+
+
+
 
 </details>
 
