@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap");
 
 /**************/
 /* CSS REMEDY */
@@ -28,7 +28,7 @@ header nav:nth-of-type(1) {
   background-color: var(--color-background);
   align-items: center;
   padding: 1rem;
-  background-color: white;
+  background-color: var(--color-white);
 }
 header nav:nth-of-type(1) a {
   width: 8rem;
@@ -47,7 +47,7 @@ header nav:nth-of-type(1) ul li button {
   display: flex;
   align-items: center;
 }
-header nav:nth-of-type(1) ul li button  {
+header nav:nth-of-type(1) ul li button {
   border-radius: 30px;
   padding: 0.2rem;
 }
@@ -63,12 +63,12 @@ header nav:nth-of-type(1) ul li button svg {
   border-radius: 30px;
 }
 header nav:nth-of-type(1) ul li:nth-of-type(2) button svg {
-  fill: white;
+  fill: var(--color-white);
   border: solid 1px var(--color-background);
 }
 
 header nav:nth-of-type(1) ul li button:focus {
-  border: solid .2rem hotpink;
+  border: solid 0.2rem hotpink;
 }
 header nav:nth-of-type(1) ul li:nth-of-type(1) button svg {
   fill: var(--color-gold);
@@ -95,9 +95,10 @@ header nav:nth-of-type(1) > button span {
 header nav:nth-of-type(2) {
   width: 100vw;
   height: 90vh;
-  background-color: white;
+  background-color: var(--color-white);
   transform: translateX(100vw);
   transition: 0.5s;
+  z-index: 3;
   position: absolute;
 }
 header nav:nth-of-type(2).open {
@@ -139,12 +140,12 @@ h2 {
 /* Met uitleg hulp van ali */
 main section:nth-of-type(1) {
   display: grid;
-  grid-template-rows: 1fr .1fr auto auto auto;
+  grid-template-rows: 1fr 0.1fr auto auto auto;
   gap: 1rem;
 }
 
 main section:nth-of-type(1) h1 {
-align-self: center;
+  align-self: center;
 }
 /* Met uitleg hulp van studenten assitente */
 main section:nth-of-type(1) figure {
@@ -158,7 +159,7 @@ button {
 }
 
 button:hover {
-  background-color: #4d3928
+  background-color: #4d3928;
 }
 main section:nth-of-type(1) figure img {
   display: block;
@@ -174,22 +175,19 @@ main section:nth-of-type(1) a {
   border-radius: 8rem;
   padding: 1rem;
   text-decoration: none;
-  color: white;
+  color: var(--color-white);
   width: max-content;
- 
-} 
-
-main section:nth-of-type(1) a:hover {
-background-color:#4d3928 ;
 }
 
-  
+main section:nth-of-type(1) a:hover {
+  background-color: #4d3928;
+}
 
 main section:nth-of-type(2) li {
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  background: white;
+  background: var(--color-white);
   border-radius: 3rem;
   overflow: hidden;
 }
@@ -209,12 +207,14 @@ main section:nth-of-type(2) li a {
   border-radius: 8rem;
   padding: 1rem;
   text-decoration: none;
-  color: white;
+  color: var(--color-white);
   width: max-content;
   margin-left: 1rem;
   margin-right: 1rem;
 }
-
+main section:nth-of-type(2) a:hover {
+  background-color: #4d3928;
+}
 main section:nth-of-type(2) ul {
   display: flex;
   overflow: scroll;
@@ -243,10 +243,14 @@ main section:nth-of-type(3) li a {
   border-radius: 8rem;
   padding: 1rem;
   text-decoration: none;
-  color: white;
+  color: var(--color-white);
   width: max-content;
   margin-left: 1rem;
   margin-right: 1rem;
+}
+
+main section:nth-of-type(3) a:hover {
+  background-color: #4d3928;
 }
 main section:nth-of-type(3) li p {
   margin-left: 1rem;
@@ -260,7 +264,7 @@ main section:nth-of-type(3) li {
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  background: white;
+  background: var(--color-white);
   border-radius: 3rem;
   overflow: hidden;
 }
@@ -290,7 +294,7 @@ main section:nth-of-type(4) ul li {
 }
 
 main section:nth-of-type(4) {
-  background: white;
+  background: var(--color-white);
   padding: 1rem;
   border-radius: 3rem;
   margin-top: 3rem;
@@ -298,21 +302,25 @@ main section:nth-of-type(4) {
 }
 
 main section:nth-of-type(5) form {
-display: flex;
-flex-direction: column;
-background-color: #ac182d;
-color: white;
-padding: 1rem;
-margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #ac182d;
+  color: var(--color-white);
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
-
 footer {
-  background-color: white;
+  background-color: var(--color-white);
+}
+
+footer a:hover{
+text-decoration: underline;
+color: #ac182d;
 }
 summary {
   list-style: none;
-  background-color: white;
+  background-color: var(--color-white);
   padding-left: 2rem;
   display: flex;
   max-width: 30rem;
@@ -320,8 +328,8 @@ summary {
   justify-content: space-between;
 }
 
-button {
-  background-color: #ac182d;
+footer button {
+  background-color: var(--color-white);
   border: none;
   font-size: 1.5rem;
   padding: 1rem 1.5rem;
@@ -374,8 +382,9 @@ footer section:nth-of-type(5) ul li {
   --color-text: #111;
   --color-background: #eee;
   --color-gold: #996605;
-  --picture-font: 'Alegreya';
+  --picture-font: "Alegreya";
   --color-beige: #fcf5ed;
+  --color-white: white;
 }
 
 img {
@@ -390,54 +399,62 @@ li {
   background-color: red;
 } */
 
-.eftelingkerst section:nth-of-type(1) h1 {
-position:absolute;
-left:1rem;
-right:1rem;
-padding-top: 4rem;
-color: white;
-}
-
 .eftelingkerst {
   width: 100%;
   padding: 0;
 }
 
-.eftelingkerst section:nth-of-type(1){
+.eftelingkerst section:nth-of-type(1) {
   position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+.eftelingkerst section:nth-of-type(1)::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+}
+/* Uitgelegd door Ali, geschreven door mij, hoe ik animaties kan gebruiken. */
 .eftelingkerst section:nth-of-type(1) h1 {
-  padding:0;
+  position: absolute;
+  color: white;
+  transform: scale(1);
+  filter: drop-shadow(white 0 0 10px);
+  animation-name: welkomTitel, glow;
+  animation-duration: 1s, 2s;
+  animation-timing-function: ease, ease-in-out;
+  animation-delay: 1s, 2s;
+  animation-fill-mode: backwards, backwards;
 }
 
 .eftelingkerst section:nth-of-type(2) p {
-  padding:2rem;
+  padding: 2rem;
   margin: 1rem;
-  
-  }
-  
-  .eftelingkerst section:nth-of-type(2) a {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-    text-align: center;
-    width: 10rem;
-    margin: 0 auto;
-    background-color: #ac182d;
-    color: white;
-    border-radius: 3rem;
-    padding: 1rem;
-    text-decoration: none;
-    position: relative;
-    }
-  /* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
+}
+
+.eftelingkerst section:nth-of-type(2) a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 10rem;
+  margin: 0 auto;
+  background-color: #ac182d;
+  color: var(--color-white);
+  border-radius: 3rem;
+  padding: 1rem;
+  text-decoration: none;
+  position: relative;
+}
+/* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
 .eftelingkerst section:nth-of-type(2) a::before {
   content: "";
   width: 90%;
-  border: solid .1rem white;
+  border: solid 0.1rem var(--color-white);
   position: absolute;
   padding: 1rem 0;
   border-radius: 3rem;
@@ -447,105 +464,133 @@ color: white;
   display: flex;
   flex-direction: column;
 }
-.eftelingkerst section:nth-of-type(3) article  {
-background-color: white;
-margin: 2rem;
-padding: 2rem;
-text-align: center;
-
+.eftelingkerst section:nth-of-type(3) article {
+  background-color: var(--color-white);
+  margin: 2rem;
+  padding: 2rem;
+  text-align: center;
 }
 
 .eftelingkerst section:nth-of-type(3) a {
   display: flex;
   align-items: center;
   justify-content: center;
-   text-align: center;
-   width: 10rem;
-   margin: 0 auto;
-   background-color: #ac182d;
-   color: white;
-   border-radius: 3rem;
-   padding: 1rem;
-   text-decoration: none;
-   position: relative;
-   }
- /* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
+  text-align: center;
+  width: 10rem;
+  margin: 0 auto;
+  background-color: #ac182d;
+  color: var(--color-white);
+  border-radius: 3rem;
+  padding: 1rem;
+  text-decoration: none;
+  position: relative;
+}
+/* Met uitleg hulp van Ali om een wit randje om de knop te doen*/
 .eftelingkerst section:nth-of-type(3) a::before {
- content: "";
- width: 90%;
- border: solid .1rem white;
- position: absolute;
- padding: 1rem 0;
+  content: "";
+  width: 90%;
+  
+  position: absolute;
+
   border-radius: 3rem;
 }
 
-/* Met uitleg hulp van Ronald (heeft mij de basis helpen uitleggen)*/
-.eftelingkerst section:nth-of-type(4)  {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: repeat(3, auto);
-gap: 1rem;
+.eftelingkerst section:nth-of-type(3) a:hover {
+  background-color: #4d3928;
+}
 
+/* Met uitleg hulp van Ronald (heeft mij de basis helpen uitleggen)*/
+.eftelingkerst section:nth-of-type(4) {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, auto);
+  gap: 1rem;
 }
 /* Met uitleg hulp van Ronald (heeft mij de basis helpen uitleggen)*/
 .eftelingkerst section:nth-of-type(4) img:nth-of-type(1) {
-grid-column: 1/3;
+  grid-column: 1/3;
 }
-  
-  .eftelingkerst section:nth-of-type(5) {
-    position: relative;
-  }
 
-  .eftelingkerst section:nth-of-type(5) div {
-    position: absolute;
-    inset: 0;
-    margin: 0 auto;
-    padding: 1rem;
-    font-family: var(--picture-font);
-    text-align: center;
-    color: var(--color-background);
-    display: flex;
-    gap: 1rem;
-    flex-direction: column;
-  }
+.eftelingkerst section:nth-of-type(5) {
+  position: relative;
+}
 
-  .eftelingkerst section:nth-of-type(5) div h3 {
-    font-size: 2.5rem;
-  }
-  .eftelingkerst section:nth-of-type(5)::before {
-    content: "";
-    left: 0;
-    top: 0;
-    position: absolute;
-    background-color: rgba(0,0,0,.5);
-    width: 100%;
-    height: 100%;
-  }
+.eftelingkerst section:nth-of-type(5) div {
+  position: absolute;
+  inset: 0;
+  margin: 0 auto;
+  padding: 1rem;
+  align-items: center;
+  font-family: var(--picture-font);
+  text-align: center;
+  color: var(--color-background);
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: center;
+}
 
-  .eftelingkerst section:nth-of-type(5) div a {
-    display: block;
-    margin-top: 1rem;
-    border: solid var(--color-background) .1rem;
-    border-radius: .5rem;
-    padding: .5rem;
-    width: fit-content;
-    color: var(--color-background);
-    text-decoration: none;
-    margin: 1rem auto;
-  }
+.eftelingkerst section:nth-of-type(5) div h3 {
+  font-size: 2.5rem;
+}
+.eftelingkerst section:nth-of-type(5)::before {
+  content: "";
+  left: 0;
+  top: 0;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+}
 
+.eftelingkerst section:nth-of-type(5) div a {
+  display: block;
+  margin-top: 1rem;
+  border: solid var(--color-background) 0.1rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  width: fit-content;
+  color: var(--color-background);
+  text-decoration: none;
+  margin: 1rem auto;
+}
 
+.eftelingkerst section:nth-of-type(5) a:hover {
+background-color: #4d3928;
+}
 /* MARK: STATES
  */
-  :focus {
-    outline: none;
-    animation: focusAni .5s infinite alternate; 
-  }
+:focus {
+  outline: none;
+  animation: focusAni 0.5s infinite alternate;
+}
 /* Met uitleg hulp van Ali */
-  @keyframes focusAni {
-    from {
-      border: solid .2rem red;
-    } to {
-      border: solid .2rem rgba(255, 0, 0, 0.463);
-    }
+@keyframes focusAni {
+  from {
+    border: solid 0.3rem rgb(24, 7, 215);
   }
+  to {
+    border: solid 0.2rem var(--color-white);
+  }
+}
+
+/* Wanneer je een animatie maakt, begin je altijd met @keyframes */
+/* Daarna geef je de animatie een naam: in het voorbeeld is dit welkomTitle */
+/* Daarna open je de accolades/krulhaakjes, hierin komt de animatie */
+@keyframes welkomTitel {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes glow {
+  from {
+    filter: drop-shadow(white 0 0 0);
+  }
+  to {
+    filter: drop-shadow(white 0 0 1rem);
+  }
+}

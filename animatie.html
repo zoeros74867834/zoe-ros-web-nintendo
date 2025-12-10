@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+div {
+    height: 50dvh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Eerst de animatie naam, dan de duur van de animatie, dan de stijl van die animatie */
+/* Wat is fill-mode: bepaalt welke stijlen een animatie toepast op een element vóór het begint en ná het eindigt */
+/* Een animation-timing-function in CSS bepaalt de snelheidscurve van een animatie, oftewel hoe de animatie versnelt en vertraagt van begin tot eind, */
+h1 {
+    color: white;
+    /* animation-name: welkomTitel;
+    animation-duration: 1s;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation-delay: .5s;
+    animation-fill-mode: backwards; */
+    animation: welkomTitel 1s 1s backwards,
+                glow 2s 2s backwards;
+    transform: scale(1);
+    filter: drop-shadow(white 0 0 10px);
+}
+/* Wanneer je een animatie maakt, begin je altijd met @keyframes */
+/* Daarna geef je de animatie een naam: in het voorbeeld is dit welkomTitle */
+/* Daarna open je de accolades/krulhaakjes, hierin komt de animatie */
+@keyframes welkomTitel {
+    from {
+        transform: scale(0);
+    } to {
+        transform: scale(1);
+    }
+}
+
+@keyframes glow {
+    from {
+        filter: drop-shadow(white 0 0 0);
+    } to {
+        filter: drop-shadow(white 0 0 1rem);
+    }
+}
+</style>
+<body>
+    <div>
+        <h1>Winter efteling!</h1>
+    </div>
+</body>
+</html>

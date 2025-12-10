@@ -6,10 +6,9 @@ Zelf heb ik hier een hoop uren aan besteed alleen waar ik het groost tegen aan l
 
 Ik heb tijdens deze 5 weken hulp uitleg gehad gehad van de volgende mensen:
 
-De docent
-Ali 
-ronald 
-studenten assitenten ( als iemand mij heeft geholpen dan zie je daar ook een comment bij)
+De docent,
+Ali, Ronald en de  
+studenten assistenten ( als iemand mij heeft geholpen dan zie je daar ook een comment bij)
 School oefeningen
 hulp bronnen ( die je onder aan de pagina kan vinden bij de bronnen lijst )
 
@@ -94,7 +93,7 @@ Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is vo
 
 ### eerste toegankelijkheidtest Nintendo
 <details>
- <img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
+ <img src="./readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
   <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina">
    <img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
     <img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
