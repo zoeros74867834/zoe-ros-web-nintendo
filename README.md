@@ -149,12 +149,14 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
 Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt en op geschreven hoe ik precies de indeling wil hebben. 
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  
+
+
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   
 
-</details>
+
 
 
 
@@ -261,6 +263,31 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
     <img src="readme-images/grid-uitleg-3.png" width="375px" alt="breakdown van een dynamisch deel">
      <img src="readme-images/grid-uitleg-4.png" width="375px" alt="breakdown van een dynamisch deel">
      <img src="readme-images/grid-uitleg-5.png" width="375px" alt="breakdown van een dynamisch deel">
+
+Hierboven zie je een paar schetsen waarin de uitleg te zien is
+Na dat de uitleg is gegeven en ik ben gaan kijken naar de oefeningen bij codepen. Ben ik het daarna zelf gaan proberen om te kijken hoe het bij mij website gaat werken.
+
+ <img src="readme-images/grid-uitwerking-1.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/grid-uitwerking-2.png" width="375px" alt="breakdown van een dynamisch deel">
+   <img src="readme-images/grid-uitwerking-3.png" width="375px" alt="breakdown van een dynamisch deel">
+    <img src="readme-images/grid-uitwerking-4.png" width="375px" alt="breakdown van een dynamisch deel">
+     <img src="readme-images/grid-uitwerking-5.png" width="375px" alt="breakdown van een dynamisch deel">
+
+     Ik heb grid gebruikt bij de eerste pagina in de eerste section
+     ik wilde graag de foto's naast elkaar hebben en zorgen dat alles op de juiste plek staat. 
+
+     De foto's staan in een figure en ik heb gezegt dat het nu  grid-template-columns: 1fr 1fr;  dus de eerste foto staat op 1 en 2 en de tweede foto staat op 2 en 3 
+
+     ik heb een gab op de eerste section dit zorgt ook voor wit ruimte in de grid tussen de knop en de teksten.
+
+     ook staat er grid bij de tweede pagina bij section 4.
+     Deze heb ik gebruikt om een collem te maken om de foto's onder elkaar neer te zetten zoals ook op de webiste staat.  
+
+     
+
+
+  
+
 
   
 
