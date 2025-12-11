@@ -1,3 +1,4 @@
+/* https://codepen.io/shooft/pen/WbQXqVX*/
 @import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap");
 
 /**************/
@@ -13,10 +14,11 @@
 header {
   position: relative;
 }
-
+/* met uitleg hulp van Ali*/
 html {
   overflow-x: hidden !important;
 }
+
 body {
   background-color: #f4ebe3;
   overflow-x: hidden;
@@ -140,6 +142,7 @@ h2 {
   text-align: center;
 }
 /* Met uitleg hulp van ali */
+/*https://codepen.io/shooft/pen/KwdZPMP*/
 main section:nth-of-type(1) {
   display: grid;
   grid-template-rows: 1fr 0.1fr auto auto auto;
@@ -184,7 +187,7 @@ main section:nth-of-type(1) a {
 main section:nth-of-type(1) a:hover {
   background-color: #4d3928;
 }
-
+/* Met uitleg hulp van studenten assitente */
 main section:nth-of-type(2) li {
   display: flex;
   flex-direction: column;
@@ -217,16 +220,20 @@ main section:nth-of-type(2) li a {
 main section:nth-of-type(2) a:hover {
   background-color: #4d3928;
 }
+
+/* Met uitleg hulp van studenten assitente */
 main section:nth-of-type(2) ul {
   display: flex;
   overflow: scroll;
   gap: 3rem;
 }
+
+/* Met uitleg hulp van studenten assitente */
 main section:nth-of-type(2) ul li {
   width: 20rem;
   flex-shrink: 0;
 }
-
+/* Met uitleg hulp van studenten assitente */
 main section:nth-of-type(2) ul li img {
   height: 10rem;
   width: 100%;
@@ -439,6 +446,7 @@ li {
   margin: 1rem;
 }
 
+/*https://codepen.io/shooft/pen/XJmEOyb*/
 .eftelingkerst section:nth-of-type(2) a {
   display: flex;
   align-items: center;
@@ -474,6 +482,7 @@ li {
   text-align: center;
 }
 
+/*https://codepen.io/shooft/pen/MYaXoza8*/
 .eftelingkerst section:nth-of-type(3) a {
   display: flex;
   align-items: center;
@@ -492,9 +501,7 @@ li {
 .eftelingkerst section:nth-of-type(3) a::before {
   content: "";
   width: 90%;
-  
   position: absolute;
-
   border-radius: 3rem;
 }
 

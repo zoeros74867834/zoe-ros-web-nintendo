@@ -7,6 +7,7 @@
 // Met het groter dan teken ">" verwijs je naar de direct child binnen een parent.
 // Om een functie te schrijven in javavscript begin je altijd met function
 
+/*https://codepen.io/shooft/pen/jEbYdgb*/
 console.log("hi");
 
 const burger = document.querySelector("header nav > button");
@@ -45,4 +46,5 @@ burger.addEventListener("click", function(){
   16. https://codepen.io/shooft/pen/XJmEOyb
   17. https://flexboxfroggy.com/#nl
   18. https://codepen.io/shooft/pen/MYaXoza
+  19.https://codepen.io/shooft/pen/jEbYdgb
 */
