@@ -22,6 +22,7 @@ body {
   overflow-x: hidden;
 }
 
+/* Met uitleg hulp van Ali */
 header nav:nth-of-type(1) {
   display: flex;
   width: 100%;
@@ -101,6 +102,7 @@ header nav:nth-of-type(2) {
   z-index: 3;
   position: absolute;
 }
+/* Met uitleg hulp van Ali */
 header nav:nth-of-type(2).open {
   transform: translateX(0);
 }
@@ -377,6 +379,7 @@ footer section:nth-of-type(5) ul li {
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+
 :root {
   /* startje */
   --color-text: #111;
@@ -573,7 +576,7 @@ background-color: #4d3928;
     border: solid 0.2rem var(--color-white);
   }
 }
-
+/* Met uitleg hulp van Ali */
 /* Wanneer je een animatie maakt, begin je altijd met @keyframes */
 /* Daarna geef je de animatie een naam: in het voorbeeld is dit welkomTitle */
 /* Daarna open je de accolades/krulhaakjes, hierin komt de animatie */
@@ -585,7 +588,7 @@ background-color: #4d3928;
     transform: scale(1);
   }
 }
-
+/* Met uitleg hulp van Ali */
 @keyframes glow {
   from {
     filter: drop-shadow(white 0 0 0);
@@ -594,3 +597,23 @@ background-color: #4d3928;
     filter: drop-shadow(white 0 0 1rem);
   }
 }
+/* 
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-column
+  2. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-rows
+  4. https://www.accessibility.nl/kennis/zo-zet-je-skiplinks-voor-een-optimale-navigatie
+  5. https://dlo.mijnhva.nl/content/enforced/690110-FDMCI-CRS-00042507/FED%2025-26%20-%20Blok%202%20-%20Oefening%20typografie%20-%201%20letters.pdf
+  6. https://fonts.google.com/specimen/Alegreya
+  7. https://codepen.io/psbwhznu-the-scripter/pen/ogxxjdV
+  8. https://codepen.io/psbwhznu-the-scripter/pen/yyOyYPw
+  9. https://codepen.io/psbwhznu-the-scripter/pen/XJddjJy
+  10.https://codepen.io/psbwhznu-the-scripter/pen/XJddYGp 
+  11. https://codepen.io/psbwhznu-the-scripter/pen/wBGJGQd
+  12. https://codepen.io/psbwhznu-the-scripter/pen/JoXJNYO
+  13. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-timing-function
+  14. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/animation-fill-mode
+  15.https://codepen.io/shooft/pen/KwdZPMP
+  16. https://codepen.io/shooft/pen/XJmEOyb
+  17. https://flexboxfroggy.com/#nl
+  18. https://codepen.io/shooft/pen/MYaXoza
+*/
