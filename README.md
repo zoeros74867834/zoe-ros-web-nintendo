@@ -102,7 +102,7 @@ Deze regeling is heel erg belangerijk omdat het een geaccepteerd standaard is vo
 
 ### Content
 <details>
-<img src="readme-images/wcag-1-nintendo.png" width="375px" alt="omschrijving van de pagina">
+
 Eerst zijn we gaan kijken bij de Nintendo website hoe de content op de pagina er uitziet.
 Er worden geen moeilijke woorden gebruikt maar vooral grafische afbeeldingen.
 Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een duidelijke uitles.
@@ -117,7 +117,15 @@ Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een
 <img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
 <img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
 <img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
- 
+
+Omdat ik niet toch voor de nintendo webiste ben gegaan heb ik de wcag test nog een keer gedaan maar dan bij de efteling website. 
+
+<img src="readme-images/wcag-checklist-echte-website.png" width="375px" alt="omschrijving van de pagina">
+ <img src="readme-images/wcag-checklist-echte-website-2.png" width="375px" alt="omschrijving van de pagina">
+ <img src="readme-images/wcag-checklist-echte-webiste-3.png" width="375px" alt="omschrijving van de pagina">
+ <img src="readme-images/wcag-checklist-echte-website-4.png" width="375px" alt="omschrijving van de pagina">
+ <img src="readme-images/wcag-echte-checklist-5.png" width="375px" alt="omschrijving van de pagina">
+
   ### Bevindingen
   <details>
   Lijst met je bevindingen die in de test naar voren kwamen:
@@ -133,6 +141,12 @@ Ane: die had voor de website Jellycat gekozen: https://eu.jellycat.com/?mtm_dumm
 
 Bij deze website ging de toegangelijkheid test best wel goed.
 Wat ons wat opgevallen bij anne haar website was:
+
+is bij haar dat er meer openheid was naar toegangkelijkheid maar dat de website er zelf ook druk uitzag kwa ontwerp.
+
+### Nieuwe bevindendingen efteling website
+
+Bij de efteling website verrassend genoeg was er geen werkte de tap en de sprak functie heel erg slecht dit is iets voor mijn efteling website wat ik zeker weten wil gaan verbeteren.
 
 </details>
 
@@ -156,22 +170,26 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
 
   ### Mijn tweede breakdown schets van de hele pagina: 
   <details>
-  <img src="readme-images/opmaak-1.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/opmaak-2.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/opmaak-3.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/opmaak-4.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/opmaak-5.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/opmaak-6.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-1.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-2.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-niew-3.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-4.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-5.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-6.png" width="375px" alt="breakdown van de hele pagina">
 
 Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt en op geschreven hoe ik precies de indeling wil hebben. 
 
   ### dynamisch deel (bijv menu): 
   <details>
+  Het menu is in en uitklap maar en kan je niet door heen tappen maar bij mijn ontwerp die ik ga maken kan dat wil en is het meer gebruiks vriendlijk 
+
+  voor de rest ziet het menu er rustig uit en kan je makkelijk de navigatie er door heen volgen.
 
 
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <details>
+  Er zit niet echt een filter in de webiste van de efteling de engine filter die er echt een beetje in zit gaat over met de tickets.
 
 
 
@@ -187,17 +205,7 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
   <details>
   In week twee ging ik beginnen met de html code schrijven en was ik nog niet echt bezig op de stijling er van. Omdat ik zo snel de html basis er in heb kunnen zetten ben ik einde van de week een beetje begonnen met de css.
 
-  
-
-  ### pagina 2 winter Efteling
-  <details>
-<img src="readme-images/winter-html-1.png" width="375px" alt="breakdown van een dynamisch deel">
-    <img src="readme-images/winter-html-2.png" width="375px" alt="breakdown van een dynamisch deel">
-     <img src="readme-images/winter-html-3.png" width="375px" alt="breakdown van een dynamisch deel">
-      <img src="readme-images/winter-html-4.png" width="375px" alt="breakdown van een dynamisch deel">
-       <img src="readme-images/winter-html-5.png" width="375px" alt="breakdown van een dynamisch deel">
-       <img src="readme-images/winter-html-6.png" width="375px" alt="breakdown van een dynamisch deel">
-       <img src="readme-images/winter-html-7.png" width="375px" alt="breakdown van een dynamisch deel">
+   
 
        Alles in de HTML zetten ging goed zo als je hier boven kan zien. 
        Dit was echt binnen een paar uur gemaakt. Wel merkte ik later dat ik nog een paar dingen moest aanpassen. Hierdoor moest ik ook nog een keer het structuur door nemen. En steeds verbeterde ik het zo dat de code goed zou gaan blijven werken. 
@@ -293,7 +301,8 @@ let wel op hoe de indeling van je section:nth is want als je hem niet goed aansp
 <details>
  Wat ik heel lastig vond was grid. Hier heb ik uitleg gehad van ronald en ali. Die hebben het voor mij uitgetekt zodat ik zelf de code kan gaan schrijven. 
 
-  <img src="readme-images/grid-uitleg-1.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/grid-uitleg-1.png
+  " width="375px" alt="breakdown van een dynamisch deel">
    <img src="readme-images/grid-uitleg-2.png" width="375px" alt="breakdown van een dynamisch deel">
     <img src="readme-images/grid-uitleg-3.png" width="375px" alt="breakdown van een dynamisch deel">
      <img src="readme-images/grid-uitleg-4.png" width="375px" alt="breakdown van een dynamisch deel">
@@ -388,25 +397,29 @@ In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid
   
 
   | Maud   
-  Maud had vooral vragen of haar code die nu er in staat een beetje goed is. En hoe ze dingen kan laten    
+  Maud had vooral vragen of haar code die nu er in staat een beetje goed is. En hoe ze dingen kan laten  bewegen op haar webpagina  
   
-  | Cato          
+  | Cato         
+  Cato wilde nog weten of ze alles er in heeft staan en wat ze nog het beste kan gaan verbeteren  
   
-  | Zoe    
+  | Zoe
+  Ik liep nog een beetje vast met de java script code en vroeg me af of ik wel de juiste zinnen er in heb staan die verwacht van mij gaan worden.    
   
   | Jip       
-  
+  Jip liep nog teven de css code aan en had nog moeite met een paar oefen opdrachten
+
   | Thijs
+  Thijs was nog bezig met grid en fles box om te gekijken of die op de juiste manier erin waren gezet.
 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Alles checeken of je code er in stond en geen fout meldingen meer had
+  - Kijken naar elkaar code om de webiste te testen en toegangakelijkheid bespreken van elkaar
+  - Nog onze readme door lopen en alles checken bij elkaar
+  
 
 </details>
 
@@ -436,7 +449,7 @@ In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid
 </details>
 
 
-Toegangkelijkheid test
+### Toegangkelijkheid test van mijn eigen efteling webiste
 
 
 ## Bronnenlijst
@@ -466,7 +479,7 @@ Toegangkelijkheid test
   16. https://codepen.io/shooft/pen/XJmEOyb
   17. https://flexboxfroggy.com/#nl
   18. https://codepen.io/shooft/pen/MYaXoza
-  
+
 
 
 
@@ -477,8 +490,6 @@ Toegangkelijkheid test
 
 
   
-  <img src="readme-images/efteling-overnachting1.png" width="375px" alt="omschrijving van de pagina">
-
-   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="omschrijving van de pagina">
+ 
 
    
