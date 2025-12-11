@@ -469,26 +469,6 @@ Wat er minder goed ging is:
 <details>
 
 
-  ### Je uitkomst - karakteristiek screenshots:
-
-  ### webpagina efteling 1 
- <img src="readme-images/mijn-efteling-pagina-tickets-1.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
-
- <img src="readme-images/mijn-efteling-pagina-tickets-2.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
-
-  <img src="readme-images/mijn-efteling-pagina-tickets-3.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
-
-   <img src="readme-images/mijn-efteling-pagina-tickets-4.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
-
-   <img src="readme-images/mijn-efteling-pagina-tickets-5.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
-
-  ### webpagina efteling 2
-<img src="readme-images/mijn-efteling-pagina-winter-1.png" width="375px" alt="mijn einresultaat van de winter efteling website"
-  <img src="readme-images/mijn-efteling-pagina-winter-2.png" width="375px" alt="mijn einresultaat van de winter efteling website"
-<img src="readme-images/mijn-efteling-pagina-winter-3.png" width="375px" alt="mijn einresultaat van de winter efteling website"
-
-<img src="readme-images/mijn-efteling-pagina-tickets-1.png" width="375px" alt="mijn einresultaat van de winter efteling website"
-
   ### Dit ging goed/Heb ik geleerd: 
   Uit eindelijk wat heel goed is gegaan is alle basis code leren en snappen hoe je een goed begin kan maken van een website. En dat ik dus nu ook weet met welke regels ik als ontwerper rekening mee kan en moet houden. 
   
