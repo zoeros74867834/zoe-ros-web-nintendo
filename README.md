@@ -109,22 +109,23 @@ Als je kijkt naar de links,buttons en forms zijn ze goed beschreven en heeft een
 
 ### Global code 
 <details>
- <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="omschrijving van de pagina"> 
+<img src="readme-images/wcag-1-nintendo.png" width="375px" alt="wcag checklist van de nintendo website">
+ <img src="readme-images/wcag-2-nintendo.png" width="375px" alt="wcag checklist van de nintendo website"> 
  Bij de validate code heben we gekeken naar de code van nintendo.
  Wat mij wel heel erg op viel is dat er veel onodige code in staat. En dat het heel erg opgesommed staat. 
  Het maakt geen gebruikt van lang attribute en heeft een duidelijke webpagina naam. Dus je kan het goed van elkaar onderscheiden.
 
-<img src="readme-images/wcag-3-nintendo.png" width="375px" alt="omschrijving van de pagina">
-<img src="readme-images/wcag-4-nintendo.png" width="375px" alt="omschrijving van de pagina">
-<img src="readme-images/wcag-5-nintendo.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/wcag-3-nintendo.png" width="375px" alt="wcag checklist van de nintendo website">
+<img src="readme-images/wcag-4-nintendo.png" width="375px" alt="wcag checklist van de nintendo website">
+<img src="readme-images/wcag-5-nintendo.png" width="375px" alt="wcag checklist van de nintendo website">
 
 Omdat ik niet toch voor de nintendo webiste ben gegaan heb ik de wcag test nog een keer gedaan maar dan bij de efteling website. 
 
-<img src="readme-images/wcag-checklist-echte-website.png" width="375px" alt="omschrijving van de pagina">
- <img src="readme-images/wcag-checklist-echte-website-2.png" width="375px" alt="omschrijving van de pagina">
- <img src="readme-images/wcag-checklist-echte-webiste-3.png" width="375px" alt="omschrijving van de pagina">
- <img src="readme-images/wcag-checklist-echte-website-4.png" width="375px" alt="omschrijving van de pagina">
- <img src="readme-images/wcag-echte-checklist-5.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/wcag-checklist-echte-website.png" width="375px" alt="wcag checklist van de efteling website">
+ <img src="readme-images/wcag-checklist-echte-website-2.png" width="375px" alt="wcag checklist van de efteling website">
+ <img src="readme-images/wcag-checklist-echte-webiste-3.png" width="375px" alt="wcag checklist van de efteling website">
+ <img src="readme-images/wcag-checklist-echte-website-4.png" width="375px" alt="wcag checklist van de efteling website">
+ <img src="readme-images/wcag-echte-checklist-5.png" width="375px" alt="wcag checklist van de efteling website">
 
   ### Bevindingen
   <details>
@@ -160,9 +161,9 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
 
   ### Mijn eerste breakdown schets van de hele pagina: 
   <details>
-  <img src="readme-images/efteling-overnachting1.png" width="375px" alt="breakdown van de hele pagina">
-   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="breakdown van de hele pagina">
-    <img src="readme-images/efteling-overnachting3.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/efteling-overnachting1.png" width="375px" alt="mijn eerste breakdown schets van de website efteling">
+   <img src="readme-images/efteling-overnachting2.png" width="375px" alt="bmijn eerste breakdown schets van de website efteling">
+    <img src="readme-images/efteling-overnachting3.png" width="375px" alt="mijn eerste breakdown schets van de website efteling">
 
     Op de feedback van mijn eerste breakdown schetsen heb ik samen met de docent besproken en met een klas genoot (maud)
 
@@ -170,12 +171,12 @@ Dit is heel belangerijk omdat je dan een hou vast heb naar de indeling van je we
 
   ### Mijn tweede breakdown schets van de hele pagina: 
   <details>
-  <img src="readme-images/breakdown-schets-nieuw-1.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdown-schets-nieuw-2.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdown-schets-niew-3.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdown-schets-nieuw-4.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdown-schets-nieuw-5.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="readme-images/breakdown-schets-nieuw-6.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-schets-nieuw-1.png" width="375px" alt="op papier getekent breackdownschets">
+  <img src="readme-images/breakdown-schets-nieuw-2.png" width="375px" alt="op papier getekent breackdownschets">
+  <img src="readme-images/breakdown-schets-niew-3.png" width="375px" alt="op papier getekent breackdownschets">
+  <img src="readme-images/breakdown-schets-nieuw-4.png" width="375px" alt="op papier getekent breackdownschets">
+  <img src="readme-images/breakdown-schets-nieuw-5.png" width="375px" alt="op papier getekent breackdownschets">
+  <img src="readme-images/breakdown-schets-nieuw-6.png" width="375px" alt="op papier getekent breackdownschets">
 
 Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt en op geschreven hoe ik precies de indeling wil hebben. 
 
@@ -213,7 +214,7 @@ Daarom heb ik even een nieuwe schets gemaakt. Deze heeft wel de hele uitgewerkt 
  
  ### Wat ging er lastig? 
  <details>
- <img src="readme-images/oefen-opdracht-text.png" width="375px" alt="breakdown van een dynamisch deel">
+ <img src="readme-images/oefen-opdracht-text.png" width="375px" alt="oefen opdacht van code pen over typografie">
 
  Een van de eerste opdrachten die ik heb gedaan ging over oefen met typografie en tekst. Zoals ik al had aangegeven voor dat ik uberhoud begon had ik al moeite met de basis code.
 
@@ -303,19 +304,19 @@ let wel op hoe de indeling van je section:nth is want als je hem niet goed aansp
 
   <img src="readme-images/grid-uitleg-1.png
   " width="375px" alt="breakdown van een dynamisch deel">
-   <img src="readme-images/grid-uitleg-2.png" width="375px" alt="breakdown van een dynamisch deel">
-    <img src="readme-images/grid-uitleg-3.png" width="375px" alt="breakdown van een dynamisch deel">
-     <img src="readme-images/grid-uitleg-4.png" width="375px" alt="breakdown van een dynamisch deel">
-     <img src="readme-images/grid-uitleg-5.png" width="375px" alt="breakdown van een dynamisch deel">
+   <img src="readme-images/grid-uitleg-2.png" width="375px" alt="foto schets over uitleg hoe grid werkt">
+    <img src="readme-images/grid-uitleg-3.png" width="375px" alt="foto schets over uitleg hoe grid werkt">
+     <img src="readme-images/grid-uitleg-4.png" width="375px" alt="foto schets over uitleg hoe grid werkt">
+     <img src="readme-images/grid-uitleg-5.png" width="375px" alt="foto schets over uitleg hoe grid werktl">
 
 Hierboven zie je een paar schetsen waarin de uitleg te zien is
 Na dat de uitleg is gegeven en ik ben gaan kijken naar de oefeningen bij codepen. Ben ik het daarna zelf gaan proberen om te kijken hoe het bij mij website gaat werken.
 
- <img src="readme-images/grid-uitwerking-1.png" width="375px" alt="breakdown van een dynamisch deel">
-  <img src="readme-images/grid-uitwerking-2.png" width="375px" alt="breakdown van een dynamisch deel">
-   <img src="readme-images/grid-uitwerking-3.png" width="375px" alt="breakdown van een dynamisch deel">
-    <img src="readme-images/grid-uitwerking-4.png" width="375px" alt="breakdown van een dynamisch deel">
-     <img src="readme-images/grid-uitwerking-5.png" width="375px" alt="breakdown van een dynamisch deel">
+ <img src="readme-images/grid-uitwerking-1.png" width="375px" alt="code over uitwerking over grid ">
+  <img src="readme-images/grid-uitwerking-2.png" width="375px" alt="code over uitwerking over grid">
+   <img src="readme-images/grid-uitwerking-3.png" width="375px" alt="code over uitwerking over grid">
+    <img src="readme-images/grid-uitwerking-4.png" width="375px" alt="tcode over uitwerking over grid">
+     <img src="readme-images/grid-uitwerking-5.png" width="375px" alt="code over uitwerking over grid">
 
      Ik heb grid gebruikt bij de eerste pagina in de eerste section
      ik wilde graag de foto's naast elkaar hebben en zorgen dat alles op de juiste plek staat. 
@@ -370,13 +371,37 @@ Na dat de uitleg is gegeven en ik ben gaan kijken naar de oefeningen bij codepen
 <details>
 In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid. Hierbij gaan we kijken naar de verschillen hoe het eerst was. En hoe veel beter het nu is geworden.
 
+### Toegangkelijkheid test van mijn eigen efteling webiste
+  <img src="readme-images/wcag-checklist-mijn-efteling-1.png" width="375px" alt="foto van wcag checklist van mijn gemaakte efteling pagina">
+
+   <img src="readme-images/wcag-checklist-mijn-efteling-2.png" width="375px" alt="foto van wcag checklist van mijn gemaakte efteling pagina">
+
+   <img src="readme-images/wcag-checklist-mijn-efteling-3.png" width="375px" alt="foto van wcag checklist van mijn gemaakte efteling pagina">
+
+ <img src="readme-images/wcag-checklist-mijn-efteling-4.png" width="375px" alt="foto van wcag checklist van mijn gemaakte efteling pagina">
+
+  <img src="readme-images/wcag-checklist-mijn-efteling-5.png" width="375px" alt="foto van wcag checklist van mijn gemaakte efteling pagina">
+
+
 ### Wat hebben we aangepast?
 <details>
+Wat ik dus nu heb aangepast met de wcag checklist is dat je dus nu wel kan tappen door de website en dat die dus nu ook beter voorleest van de beschrijvingen van een link zodat er niet alleen maar staat meer informatie maar dus ook waar je dus meer informatie over krijgt.
+
+Ook heb ik veranderd dat als je over een link gaat dat het goed te zien is niet alleen bij de buttons maar ook bij de footer.
+
 
 ### Wat is het zelfde gebleven?
 <details>
+Wat het zelfde is gebleven is dat als je over de buttons gaat dat je een hover ziet.
+
+Wat ook het zelfde is gebleven is dat de teskt niet al te moeilijk is en dat het goed te volgen is. 
+
+En dat alle buttons aan de juiste kant zitten. De elementen zitten nu ook nog steeds op de juiste plek. En het contrast van de elemensten zijn ook het zelfde gebleven.
 
   ### Bevindingen
+  Mijn bevindingen hier uit zijn gekomen dat de website zeker niet bevoegd was voor mensen die niet goed konden zien. Dus als ze door de website wilde tappen dan was dat niet echt mogelijk wat me best wel verbaste. 
+
+  Ook ben ik er achter gekomen dat door regels aan te houden van de wcag checklist dat je website er meer in orde er uitziet niet persee aan de buiten kant maar vooral aan binnenkant van je code.
   
 </details>
 
@@ -387,11 +412,23 @@ In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid
 ## Voortgang 3 (week 4)
 
 <details>
-  <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
+  
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ### Wat ging er goed?
+  Wat ik aan het einde heel goed vond gaan is alle aria-label aanspreken en zorgen dat er een duidelijke tekst staat. 
 
+  Het was wel even zoeken hoe en wat en veel oefenen met de werking er van maar alles daar van is nu gelukt.
+
+  <img src="readme-images/aria-label-aanspreken.png" width="375px" alt="foto van de aria label van in mijn html code">
+
+  ### Wat ging er slecht?
+Wat er minder goed ging is:
+  <img src="readme-images/in-vul-formulier.png" width="375px" alt="foto van de efteling website invul formulier">
+
+  Ik wilde graag wat je hier boven ziet namaken. Maar dat is me uiteindelijk niet gelukt omdat het te hoog voor mij gegrepen was en ik daar te kort de tijd er voor had. 
+
+  Als ik dus meer tijd zou hebben of voor de volgende keer dan zou ik heel graag willen leren hoe ik zo iets kan gaan maken.
 
   ### Agenda voor meeting
   
@@ -430,26 +467,40 @@ In week 4 zijn we bezig geweest onze eigen website te checken op toegankelijheid
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
+  ### webpagina efteling 1 
+ <img src="readme-images/mijn-efteling-pagina-tickets-1.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
+
+ <img src="readme-images/mijn-efteling-pagina-tickets-2.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
+
+  <img src="readme-images/mijn-efteling-pagina-tickets-3.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
+
+   <img src="readme-images/mijn-efteling-pagina-tickets-4.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
+
+   <img src="readme-images/mijn-efteling-pagina-tickets-5.png" width="375px" alt="mijn eind resultaat van de eerste webpagina efteling overnachten"
+
+  ### webpagina efteling 2
+<img src="readme-images/mijn-efteling-pagina-winter-1.png" width="375px" alt="mijn einresultaat van de winter efteling website"
+  <img src="readme-images/mijn-efteling-pagina-winter-2.png" width="375px" alt="mijn einresultaat van de winter efteling website"
+<img src="readme-images/mijn-efteling-pagina-winter-3.png" width="375px" alt="mijn einresultaat van de winter efteling website"
+
+<img src="readme-images/mijn-efteling-pagina-tickets-1.png" width="375px" alt="mijn einresultaat van de winter efteling website"
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Uit eindelijk wat heel goed is gegaan is alle basis code leren en snappen hoe je een goed begin kan maken van een website. En dat ik dus nu ook weet met welke regels ik als ontwerper rekening mee kan en moet houden. 
+  
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  <img src="readme-images/in-vul-formulier.png" width="375px" alt="formulier foto van de website efteling">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
-</details>
+  Ik wilde graag wat je hier boven ziet namaken. Maar dat is me uiteindelijk niet gelukt omdat het te hoog voor mij gegrepen was en ik daar te kort de tijd er voor had. 
+
+  Als ik dus meer tijd zou hebben of voor de volgende keer dan zou ik heel graag willen leren hoe ik zo iets kan gaan maken.
 
 
-### Toegangkelijkheid test van mijn eigen efteling webiste
 
 
 ## Bronnenlijst
